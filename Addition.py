@@ -7,3 +7,5 @@ c = 22
 d = 130
 
 print(c+d)
+
+print(1)
